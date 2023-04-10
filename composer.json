@@ -15,7 +15,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Tyranid\\": "src/"
+        "Tyrant\\": "src/"
       },
       "files": [
         "src/helpers.php"
