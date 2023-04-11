@@ -1,6 +1,6 @@
 {
-    "name": "albertorc87/easyapi",
-    "description": "EasyAPI es un micro framework pensado en el desarrollo de APIs con arquitectura REST y que no depende de ninguna librería.",
+    "name": "tyrant_framework",
+    "description": "Tyrant framework is a PHP framework designed to be cloud ready, giving an easy way to deploy to the developers",
     "type": "package",
     "license": "MIT",
     "authors": [
